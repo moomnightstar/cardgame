@@ -1,8 +1,4 @@
-/**java程序设计第三次作业
- * Created by zeng on 17-5-22.
- * author:曾鹏辉　PB14000620
- * mail:zph111@mail.ustc.edu.cn
- */
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
